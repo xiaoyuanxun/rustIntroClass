@@ -1,3 +1,3 @@
-# rustIntroClass
+运行结果 : 
 
-tintin rust 入门课
+![](result.png)
