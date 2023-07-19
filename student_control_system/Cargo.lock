@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "print_character"
+name = "student_control_system"
 version = "0.1.0"
